@@ -52,5 +52,9 @@ My name is *Nikita Mikhaylov*. I am an **technical writer**. I help developers a
 + Work Experience:
   + Mirror Group (4 years) - Active Network Equipment Administrator
   + ER-Telecom Holding (1.5 years) - L2-L4 Technical Support Specialist
++ Oh right, the **peppers**! How could I forget to share their photos
+
+<img src="https://pbs.twimg.com/media/Gm9Ra7EXUAAoBZz?format=jpg&name=large" width="400"/>
+<img src="https://pbs.twimg.com/media/HI8DKGLWkAArxAi?format=jpg&name=large" width="300"/>
   
 </details>
